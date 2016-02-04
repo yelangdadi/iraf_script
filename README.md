@@ -25,4 +25,4 @@ The three scripts can process photometric CCD images automatically: do dark and 
 
 8.type the command: pretreat | photer
 
-then the scripts run, and generate the results catalogs in a folder.
+then the scripts run and will generate the results catalogs in a folder.
