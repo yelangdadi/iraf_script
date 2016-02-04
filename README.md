@@ -9,8 +9,8 @@ How to use them?
 1.install iraf on linux like system.
 2.add the scripts in the iraf.
 3.prepare the observation data.
-4.make name list file like "list_input".
-5.make parameters setting file like "iraf_settings"
+4.prepare name list file like "list_input".
+5.prepare parameters setting file like "iraf_settings"
 6.prepare reference image and its photometric stars coordinates like "reference.fits.coo". (the names are setted in "iraf_settings")
 7.enter into data directory (with all the data and input files inside) in iraf command language environment.
 8.type the command: pretreat | photer
