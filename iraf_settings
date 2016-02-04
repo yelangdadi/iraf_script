@@ -15,7 +15,7 @@
 
 #the parameters of matching images: 'name', starname, the reference image, the phot coordinates of the stars in the reference image 
 #phot_name-list_refim_refcoo#
-name SVCen pt_20140507233610-324-RA.fits pt_20140507233610-324-RA.fits.coo
+name SVCen reference.fits reference.fits.coo
 
 
 
