@@ -3,7 +3,7 @@ The three cl suffix files (pretreat.cl, photer.cl and read_iraf_settings.cl) are
 
 The other three files (iraf_settings, list_input and reference.fits.coo) are the input files for the processing.
 
-The three scripts can process photometric CCD images automatically: do dark and flat correction, match images for the shifts and rotations between them, measure stars in different apertures. It is specified to observations of FRAM (http://gloria.fzu.cz/en/fram) telescope located in Mendoza province in Argentina. These scripts can be used to for FRAM kind of data: about 7x7 degree field of view, ~30G size, ~4000 frames, several thousands stars in one frame, shifts and rotations between frames. Two hundreds stars were measured in each frame with different apertures.
+The three scripts can process photometric CCD images automatically: do dark and flat correction, match images for the shifts and rotations between them, measure stars in different apertures. It is specified to observations of FRAM (http://gloria.fzu.cz/en/fram) telescope located in Mendoza province in Argentina. These scripts can be used to for FRAM kinds of data: about 7x7 degree field of view, ~30G size, ~4000 frames, several thousands stars in one frame, shifts and rotations between frames. Two hundreds stars were measured in each frame with different apertures.
 
 How to use them?
 1.install iraf on linux like system.
