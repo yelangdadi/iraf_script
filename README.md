@@ -7,7 +7,7 @@ The three scripts can process photometric CCD images automatically: do dark and 
 
 
 
-How to use them?
+# How to use them?
 
 1.install iraf on linux like system.
 
