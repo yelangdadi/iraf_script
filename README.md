@@ -1,4 +1,4 @@
-# iraf photometry scripts
+# Iraf photometry scripts
 The three cl suffix files (pretreat.cl, photer.cl and read_iraf_settings.cl) are the iraf scripts for measuring stars flux in CCD images. It is written in iraf command language, not in Python.
 
 The other three files (iraf_settings, list_input and reference.fits.coo) are the input files for the processing.
